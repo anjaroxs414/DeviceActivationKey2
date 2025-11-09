@@ -22,8 +22,8 @@
     {
         "device_id": "4d36170055bb7244",
         "key": "freemodz",
-        "expirydate": "10-11-2025",
-        "Allowoffline": false
+        "expirydate": "15-11-2025",
+        "Allowoffline": true
     }
     
 ]
